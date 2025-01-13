@@ -1,4 +1,4 @@
-[![MasterHead] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgc-PgpL3en27W7MdvRKf3JJ6vUL31irffTw&s)]
+[![MasterHead](https://wall.alphacoders.com/big.php?i=1358310)]
 <h1 align="center">Hi 👋, I'm MUHAMMAD MUBEEN KHALID</h1>
 <h3 align="center">"Happiness is when your code runs without error."</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6_j4DWI1LHyGWIsIAy8NrjjvSu0ZHNNPsA&s">
