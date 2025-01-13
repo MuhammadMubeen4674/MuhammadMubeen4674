@@ -28,6 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmubeen4674&show_icons=true&locale=en&layout=compact" alt="muhammadmubeen4674" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmubeen4674&show_icons=true&locale=en" alt="muhammadmubeen4674" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmubeen4674&" alt="muhammadmubeen4674" /></p>
-
