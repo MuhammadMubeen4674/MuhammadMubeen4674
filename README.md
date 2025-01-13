@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD MUBEEN KHALID</h1>
 <h3 align="center">"Happiness is when your code runs without error."</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="200" src="">
 <p align="left"> <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" alt="muhammadmubeen4674" /> </p>
 
 - 🔭 I’m currently working on **University Management System**
