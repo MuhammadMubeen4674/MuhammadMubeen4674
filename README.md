@@ -1,7 +1,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWP5q7Pc2qCvFMmT-20Sm1G1KYJIk3xGuUJwuNvOqnESEkuAdE5U9QY5e618ny52GgfKM&usqp=CAU)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm MUHAMMAD MUBEEN KHALID</h1>
 <h3 align="center">"Happiness is when your code runs without error."</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6_j4DWI1LHyGWIsIAy8NrjjvSu0ZHNNPsA&s">
+<img align="right" alt="Coding" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6_j4DWI1LHyGWIsIAy8NrjjvSu0ZHNNPsA&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmubeen4674&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmubeen4674" /> </p>
 
 - 🔭 I’m currently working on **University Management System**
